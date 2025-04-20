@@ -1,0 +1,16 @@
+{
+  "document_type": "image",
+  "extracted_info": {
+    "success": true,
+    "api_available": false,
+    "error": "API error: 401 Client Error: Unauthorized for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn",
+    "structured_info": {
+      "document_type": "Unknown",
+      "personal_info": {},
+      "note": "AI analysis unavailable - API error occurred"
+    }
+  },
+  "face_count": 0,
+  "face_images": [],
+  "success": true
+}
